@@ -6,4 +6,4 @@ A crime has taken place and the detective needs your help. The detective gave yo
 
 You can solve the mystery on their website (http://mystery.knightlab.com/) itself or download it from the github repository (https://github.com/NUKnightLab/sql-mysteries) and solve it in your preferred method. 
 
-I have used SQL. 
+I have used Pandas. 
